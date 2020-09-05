@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Assignment's 2 Question - In a given NxM array find the sum of every row and every column. And store the result in a single dimension array in ascending order. 
 
 
-`let arr = [[1,2,3,4],[6,7,8,9],[0,1,2,3],[4,7,5,6]]
+```let arr = [[1,2,3,4],[6,7,8,9],[0,1,2,3],[4,7,5,6]]
 
 // sumofMatrix will calculate sum of Row and Column matrix
 function sumofMatrix(arr){
@@ -40,5 +40,5 @@ function sumofMatrix(arr){
             console.log(total)
 }
 
-sumofMatrix(arr)`
+sumofMatrix(arr)```
 
