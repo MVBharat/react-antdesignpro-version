@@ -1,0 +1,46 @@
+.sidebar {
+  width: 15rem;
+  height: 40rem;
+  background-color: #001529;
+  margin-top: -4rem;
+  /* border: 1px solid red; */
+  z-index: 1000;
+}
+.side-items {
+  padding: 0;
+  color: #fcfdff;
+}
+.side-items li {
+  margin: 0rem;
+  list-style: none;
+  color: white;
+  cursor: pointer;
+  padding: 1rem;
+  padding-bottom: 0rem;
+  font-size: 16px;
+}
+.outer-list {
+  width: 15rem;
+}
+.inner-list {
+  padding: 0;
+}
+.inner-list li {
+  margin: 0rem -1rem;
+  list-style: none;
+  color: white;
+  cursor: pointer;
+  background-color: #010c17;
+  padding: 1rem;
+  font-size: 14px;
+}
+.inner-list li:hover {
+  background-color: #1a8ffc;
+  padding: 1rem;
+}
+
+.logo-block a {
+  color: white;
+  font-size: 1.5rem;
+  text-decoration: none;
+}

@@ -1,0 +1,17 @@
+.op-effect {
+  float: left;
+  width: 13rem;
+  height: 15rem;
+  padding: 1rem;
+  background-color: white;
+}
+.op-progress {
+  height: 3rem;
+  display: flex;
+  align-items: flex-end;
+}
+.daily-op-status p:first-child {
+  margin-top: 1.5rem;
+  border-top: 1px solid #f0f0f0;
+  padding-top: 1rem;
+}

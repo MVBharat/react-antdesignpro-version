@@ -1,0 +1,22 @@
+.payments {
+  float: left;
+  width: 13rem;
+  height: 15rem;
+  padding: 1rem;
+  background-color: white;
+}
+.payments-graph {
+  /* width: 5rem; */
+  height: 55px;
+  margin-top: 0;
+  margin-bottom: 3rem;
+}
+
+.op-title {
+  color: #a395a6;
+}
+
+.op-percentage {
+  font-size: 28px;
+  margin: 0.5rem 0 2rem 0;
+}

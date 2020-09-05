@@ -1,0 +1,21 @@
+.sales-list {
+  float: right;
+}
+.sales p {
+  margin-left: 3rem;
+}
+.sales-table {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.sales-table tr > td {
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+/* .sales-table tr > td:nth-child(1) {
+  background-color: grey;
+  border-radius: 50px;
+  text-align: center;
+} */
